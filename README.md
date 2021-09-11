@@ -1,4 +1,5 @@
-### Hi there 👋
+### Second, erroneous account.
+#### Me: https://github.com/AFK1
 
 <!--
 **sergwest/sergwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
